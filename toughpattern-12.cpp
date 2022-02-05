@@ -13,7 +13,7 @@ int main()
             for (j= 1; j<=n-i+1; j++)
 
             {
-                cout<<j;
+                cout<<i;
             }
         // for spaces
         for (j= 1; j<=i-1; j++)
