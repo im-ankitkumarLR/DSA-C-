@@ -18,7 +18,7 @@ int main()
         // for spaces
         for (j= 1; j<=i-1; j++)
         {
-            cout<<"*";
+            cout<<"ANKIT";
         
         }
         // for spaces
