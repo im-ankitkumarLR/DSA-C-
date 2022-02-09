@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     
 
-    // 0,1,1,2,3,5,8,13,21........ 
+    // 0,1,1,2,3,5,8,13,21........ fibonacci Series
 
      int n,i,sum;
      int a=0;
